@@ -1,0 +1,85 @@
+<html>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<head>
+    <title>About me!</title>
+</head>
+<style>
+th, td {
+  border-radius: 10px;
+}
+ .container {
+	width: 70%;
+	margin: 20px auto;
+	background-color:#fefefe;
+	padding: 20px;
+	box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+        }
+</style>
+
+<body>
+<div class="container">
+<!-- Main Website -->
+<table border="1" align="center" cellpadding="5" width="600" background="BACKGROUND1.gif">
+	<tr bgcolor="#fefcfb"><!-- DECOR THINGY -->
+		<td width="70" height="70" valign="center" align="center"><img src="ICON2.png" alt="[]" width="60" height="40"></td>
+		<td colspan="2">
+			<table align="center" width="800">
+				<tr><!-- HEADER -->
+					<td align="left"><p style="font-family:Times New Roman; color:#231f1e; font-size:30;">Nine's Portfolio ✩°｡ ⋆⸜ 🎧✮</p></td>
+					<td align="right"><p style="font-family:Times New Roman; color:#231f1e; font-size:20;">Quarter 1 | ICT 9</p></td>
+				</tr>
+			</table>
+
+	</tr>
+	<tr bgcolor="#fefcfb">
+		<td><!-- LESSON HYPERLINKS -->
+			<table align="center" border="0">
+				<tr>
+					<td><a target="_blank" href="LESSON1.html"><img src="BUTTON3.png" alt="Lesson 1" width="60" height="60"><br></a></td>
+				</tr>
+				<tr>
+					<td><a target="_blank" href="LESSON2.html"><img src="BUTTON2.png" alt="Lesson 1" width="60" height="60"><br></a></td>
+				</tr>
+				<tr>
+					<td><a target="_blank" href="LESSON3.html"><img src="BUTTON1.png" alt="Lesson 1" width="60" height="60"><br></a></td>
+				</tr>
+				<tr>
+					<td><a target="_blank" href="LESSON4.html"><img src="BUTTON4.png" alt="Lesson 1" width="60" height="60"><br></a></td>
+				</tr>
+				<tr>
+					<td><a target="_blank" href="LESSON5.html"><img src="BUTTON5.png" alt="Lesson 1" width="60" height="60"><br></a></td>
+				</tr>
+			</table>
+		</td>
+		<td><!-- MAINBOX -->
+			<table cellpadding="11">
+				<tr>
+					<td bgcolor="#fefff7"><img src="DECOR1.png" alt="[]" width="351" height="170"><br></td>
+					<td bgcolor="#fefff7" width="449">
+						<p align="center" style="font-family:Times New Roman; color:#231f1e; font-size:40;"><i><b>JEA<u>NIN3</u></b></i><br>
+						<font align="center" style="font-family:Times New Roman; color:#4A443E; font-size:30;">₊˚⊹SHE/<u>HER</u> ୭ ˚.<i><span style="color:#5c6e85">4TEEN 						⟡</span></i></font><br>
+						<font align="center" style="font-family:Times New Roman; color:#646656; font-size:20;"><span style="color:#6c7739">filo!</span> | <b>ess '22 							lpcnshs '28<b><br><span style="color:#c79e9f">entj ✿ : aries</span> mar 22＞︿</font></p>
+					</td>
+				</tr>
+				<tr>
+					<td colspan="2"  bgcolor="#fefff7"><p  style="color:#504843;" align="center">Yallo! I'm Jeanine Faith S. Refran from 9 Fairness. Originally 8 Connection, 7 Blessedness, 6 Muntinlupa 5 Camarines Norte, 4 Mt. Province.. long list. My latest sleep experiment is sleeping right after dinner at 7 p.m., waking up at 2 a.m. to start reviewing before getting ready for class by 5 a.m, floating in school until 3:30 p.m, getting home by around 4 p.m and napping 'till 5 and starting some schoolwork by then. In my free time I like sleeping, I got bored so I decided to learn Russian (still terrible), and I play the piano (I do church service)! I tried a coding course during the pandemic but I never pushed through past "Hello World!"</p></td>
+				</tr>
+				<tr>
+					<table bgcolor="#fefff7" cellspacing="15"><tr><td colspan="2"  bgcolor="#fefff7"><p  style="color:#504843;" align="center"><i>Some videos & a photo of me</i></p></td><td></td></tr>
+						<tr><td><br><video width="320" height="240" controls> <source src="CEB.mp4" type="video/mp4">Your browser does not support the video tag.</video><br><br><br><video width="320" height="240" controls> <source src="GRADE1.mp4" type="video/mp4">Your browser does not support the video tag.</video></td><td><p  style="color:#504843;" align="left">I've stopped documenting much of myself over the years.. instead, I enjoy looking back at my parents' Facebook pictures or videos of me as a child. That squeaky voice doing her rendition of "Little Blue Daisy" or an Intrams chant.<br><br>She was doing her best! No cellphones at the time just reviewing w/ mom and Dad then every lunchtime after we got food she'd sit waiting for the TV to play Showtime, getting older, waited for it to play Furchester Hotel, older, got my first cellphone! There's so much more to happen. <br><br>I'd want my little self to see me now. To see the way I speak, the way I look, and maybe, hopefully she'd be proud. I'd give her a big hug and break the news that our favorite stuffed animals are vacuumed and sealed in a cabinet, I'm kidding. I'd give her a hug and tell her to keep on doing her best.</p><br><br><img src="SLEEPY.png" alt="Sleeping child" width="400"></td></tr>
+			</table>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<table align="center" border="0">
+				<tr>
+					<td><a target="_blank" href="MAINSITE.html" style="color:#596710;">Go back home?</a></td>
+				</tr>
+			</table></td></tr>
+</table>
+
+    <!-- Footer -->
+<p align="center"><audio controls loop autoplay muted><source src="AUDIO1.mp3" type="audio/mpeg">Your browser does not support the audio tag.</audio><br>© 2024 Nine's Portfolio | All rights reserved.</p>
+</body>
+</html>

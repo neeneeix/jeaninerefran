@@ -1,0 +1,121 @@
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lesson: HTML Lists</title>
+    <style>
+        th, td {
+            border-radius: 10px;
+        }
+        .container {
+            width: 70%;
+            margin: 20px auto;
+            background-color: #fefefe;
+            padding: 20px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+        }
+        body {
+            font-family: "Times New Roman", Times, serif;
+        }
+    </style>
+</head>
+
+<body>
+<div class="container">
+    <table border="1" align="center" cellpadding="5" cellspacing="3" width="600" style="background: url('BACKGROUND1.gif') no-repeat center center; background-size: cover;">
+        <tr bgcolor="#fefdfc">
+            <!-- Decor Thingy -->
+            <td width="70" height="50" valign="center" align="center">
+                <img src="ICON2.png" alt="[]" width="40" height="30">
+            </td>
+            <td colspan="2">
+                <table align="center" width="800">
+                    <tr bgcolor="#fefdfc">
+                        <!-- Header -->
+                        <td align="left">
+                            <p style="color:#231f1e; font-size:20px;">Nine's Portfolio ✩°｡ ⋆⸜ 🎧✮</p>
+                        </td>
+                        <td align="right">
+                            <p style="color:#231f1e; font-size:20px;">Quarter 1 | ICT 9</p>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+
+        <!-- Merged Row 2 -->
+        <tr bgcolor="#fefdfc">
+            <td colspan="3" align="center">
+                <p align="center" style="color:#231f1e; font-size:40px;"><b>⊹ Intro to HTML Lists!⭑｡𖦹°‧</b></p>
+                <table align="center">
+                    <tr>
+                        <th align="center" bgcolor="#fefdfc" style="font-size:30px;">HTML Lists!?</th>
+                    </tr>
+                    <tr>
+                        <td align="center" bgcolor="#fefdfc">
+                            <i>Are used to specify lists of information. All lists may contain one or more list elements.</i>
+                            <br>✦•······················•✦•······················•✦<br>
+                            <ul style="text-align:left;">
+                                <li>Ordered List or Numbered List (ol)</li>
+                                <li>Unordered List or Bulleted List (ul)</li>
+                                <li>Description List (dl)</li>
+                            </ul>
+                        </td>
+                    </tr>
+</p>                </table>
+		<table align="center"
+			<tr>
+			<th><br><img src="GIF2.gif" alt="[]"><br><br><hr size=1"><br>
+		</th></tr><tr>
+                     	   <th align="center" bgcolor="#fefdfc" style="font-size:20;">Ordered Lists</th>
+                    	</tr>
+			<tr>
+                     	   <td align="center" bgcolor="#fefdfc">Data can be presented in enumerated format. (Uses arabic numerals by default)<br><img src="LIST1.png" width="500"><br><br>				An example:<br><i>Code | Output</i>
+				<table><tr><td><img src="EXAMPLE2.png" border="1" width="225"></td><td><img src="EXAMPLE2A.png" border="1"></td></tr></table><br><img src="DECOR5.png"><br><br>			</td>
+                    	</tr>	
+			<tr>
+		</table>
+
+		<table align="center">
+                    <tr>
+                        <th align="center" bgcolor="#fefdfc" style="font-size:20;">Unordered Lists</th>
+                    </tr>
+		<tr>
+                     	   <td align="center" bgcolor="#fefdfc">Enumerates each item as bullet points. (Solid rounded bullets are used as default)<br><img src="LIST2.png" width="500"><br><br>				Here's a quick example!<br><i>Code | Output</i>
+				<table><tr><td><img src="EXAMPLE3.png" border="1" width="225"></td><td><img src="EXAMPLE3A.png" border="1" width="225"></td></tr></table><br><img src="GIF3.gif">		<br><br></td></tr>
+		</table>
+
+		<table align="center">
+                    <tr>
+                        <th align="center" bgcolor="#fefdfc" style="font-size:20;">Definition/Description/Glossary Lists</th>
+                    </tr>
+		<tr>
+                     	   <td align="center" bgcolor="#fefdfc">Description or Glossary list. Effective tool for making your “own definition of terms” or glossary.<br><img src="LIST3.png" width="500"><br><br>				Onee more example!<br><i>Code | Output</i>
+				<table><tr><td><img src="EXAMPLE4.png" border="1" width="225"></td><td><img src="EXAMPLE4A.png" border="1" width="243"></td></tr></table><br><img src="DIVIDER3.gif">		<br><br></td></tr>
+		</table>
+	</td></tr>
+        <!-- Merged Final Row -->
+        <tr bgcolor="#fefcfb">
+            <td colspan="3">
+                <table align="center" border="0">
+		    <tr><th colspan="5"><i>Return to Home | Find the Next lesson?</i><th><td></td><td></td><td></td><td></td></tr>
+                    <tr>
+          <td><a target="_blank" href="LESSON1.html"><img src="BUTTON3.png" alt="Lesson 1" width="60" height="60"></a></td>
+          <td><a target="_blank" href="LESSON3.html"><img src="BUTTON1.png" alt="Lesson 2" width="60" height="60"></a></td>
+          <td><a target="_blank" href="LESSON4.html"><img src="BUTTON4.png" alt="Lesson 3" width="60" height="60"></a></td>
+          <td><a target="_blank" href="LESSON5.html"><img src="BUTTON5.png" alt="Lesson 4" width="60" height="60"></a></td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+
+<!-- Footer: Properly placed outside of the table -->
+<p align="center">
+    <audio controls loop autoplay muted>
+        <source src="AUDIO1.mp3" type="audio/mpeg">
+        Your browser does not support the audio tag.
+    </audio>
+    <br>© 2024 Nine's Portfolio | All rights reserved.
+
+</body>
+</html>

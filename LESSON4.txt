@@ -1,0 +1,134 @@
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<head>
+    <title>Lesson: Hyperlinks</title>
+</head>
+<style>
+th, td {
+  border-radius: 10px;
+}
+ .container {
+	width: 70%;
+	margin: 20px auto;
+	background-color:#fefefe;
+	padding: 20px;
+	box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+        }
+</style>
+
+<body>
+<div class="container">
+
+<!-- Main Table -->
+<table border="1" align="center" cellpadding="5" width="600" background="BACKGROUND1.gif">
+  <!-- Row 1: Header -->
+  <tr bgcolor="#fefdfc">
+    <td width="70" height="50" valign="center" align="center">
+      <img src="ICON2.png" alt="[]" width="40" height="30">
+    </td>
+    <td colspan="2">
+      <table align="center" width="800">
+        <tr>
+          <td align="left">
+            <p style="font-family:Times New Roman; color:#231f1e; font-size:20;">
+              Nine's Portfolio ✩°｡ ⋆⸜ 🎧✮
+            </p>
+          </td>
+          <td align="right">
+            <p style="font-family:Times New Roman; color:#231f1e; font-size:20;">
+              Quarter 1 | ICT 9
+            </p>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+
+  <!-- Row 2: Intro Section -->
+  <tr bgcolor="#fefdfc">
+    <td colspan="3">
+      <p align="center" style="font-family:Times New Roman; color:#231f1e; font-size:40;">
+        <b>⊹ HTML Hyperlinks⭑｡𖦹°‧</b>
+      </p>
+      <table align="center">
+        <tr>
+          <th align="center"><font style="font-size:30">Hyperlinks?</font></th>
+        </tr>
+        <tr>
+          <td width="600" align="center">
+            <p>"Reference Link"</p>
+            <i>Allows you to navigate to another page of the same document or to another document</i><br>
+            ✦ . 　⁺ 　 . ✦ . 　⁺ 　 . ✦<br>
+            A website is usually made up of several web pages. We can create web pages that are connected to one another and effectively create a Web Site.<br><br>
+            <img src="DECOR4.png" alt="[]"><br><br>
+          </td>
+        </tr>
+      </table>
+
+      <!-- Row 3: Types of Hyperlinks -->
+      <table align="center">
+        <tr>
+          <th align="center" colspan="3"><font style="font-size:20">Three kinds of Hyperlinks?</font></th>
+        </tr>
+        <tr>
+          <td align="center" width="200">Absolute URL.<br><br></td>
+          <td align="center" width="200">Relative URL.<br><br></td>
+          <td align="center" width="200">Named Anchor.<br><br></td>
+        </tr>
+      </table>
+
+      <table align="center">
+        <tr>
+          <td align="center" width="400">
+            <img src="GIF1.gif" alt="[]" align="center"><br><img src="EXAMPLE6.png" alt="This is the first example!" border="0" width="500"><br><br>
+            Those are the basic attributes to create a hyperlink! Let's look at target specifically, you can choose from 4 specific values!
+            <ul type="circle" align="left">
+              <li>_blank ➝ href attribute or target URL will be opened in a new window</li>
+              <li>_self ➝ href attribute or target URL will be opened within the same frame</li>
+              <li>_parent ➝ href attribute or target URL will be opened in the parent frameset</li>
+              <li>_top ➝ href attribute or target URL will be opened in the full body of the window</li>
+            </ul>
+          </td>
+        </tr>
+      </table>
+
+      <!-- Row 5: Example Implementation -->
+      <table align="center">
+        <tr>
+          <td align="center">
+            <font style="font-size:20"><u>Putting together what we learned, let's try it out!</u></font><br><br>
+            <img src="EXAMPLE6A.png" alt="[]" align="center"><br>
+            <p>And here's how it looks after!</p>
+            <img src="VIDEO1.gif" alt="[]" width="600" align="center" border="1"><br><br><i>Amazing work!</i><br><br><img src="DIVIDER4.gif" alt="[]" width="600" align="center">
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+
+  <!-- Row 6: Buttons -->
+  <tr bgcolor="#fefcfb">
+    <td colspan="3">
+      <table align="center" border="0">
+        <tr>
+          <td><a target="_blank" href="LESSON1.html"><img src="BUTTON3.png" alt="Lesson 1" width="60" height="60"></a></td>
+          <td><a target="_blank" href="LESSON2.html"><img src="BUTTON2.png" alt="Lesson 2" width="60" height="60"></a></td>
+          <td><a target="_blank" href="LESSON3.html"><img src="BUTTON1.png" alt="Lesson 1" width="60" height="60"></a></td>
+          <td><a target="_blank" href="LESSON5.html"><img src="BUTTON5.png" alt="Lesson 1" width="60" height="60"></a></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+<!-- Footer (separated from the table) -->
+<div style="text-align: center; margin-top: 20px;">
+    <audio controls loop autoplay muted>
+      <source src="AUDIO1.mp3" type="audio/mpeg">
+      Your browser does not support the audio tag.
+    </audio><br>
+    © 2024 Nine's Portfolio | All rights reserved.
+</div>
+
+</div>
+</body>
+</html>
